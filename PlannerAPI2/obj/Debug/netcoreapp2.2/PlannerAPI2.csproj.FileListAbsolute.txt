@@ -1,0 +1,14 @@
+C:\Users\lucas.tarumoto\source\repos\PlannerAPI2\PlannerAPI2\bin\Debug\netcoreapp2.2\PlannerAPI2.deps.json
+C:\Users\lucas.tarumoto\source\repos\PlannerAPI2\PlannerAPI2\bin\Debug\netcoreapp2.2\PlannerAPI2.runtimeconfig.json
+C:\Users\lucas.tarumoto\source\repos\PlannerAPI2\PlannerAPI2\bin\Debug\netcoreapp2.2\PlannerAPI2.runtimeconfig.dev.json
+C:\Users\lucas.tarumoto\source\repos\PlannerAPI2\PlannerAPI2\bin\Debug\netcoreapp2.2\PlannerAPI2.dll
+C:\Users\lucas.tarumoto\source\repos\PlannerAPI2\PlannerAPI2\obj\Debug\netcoreapp2.2\PlannerAPI2.csprojAssemblyReference.cache
+C:\Users\lucas.tarumoto\source\repos\PlannerAPI2\PlannerAPI2\obj\Debug\netcoreapp2.2\PlannerAPI2.csproj.CoreCompileInputs.cache
+C:\Users\lucas.tarumoto\source\repos\PlannerAPI2\PlannerAPI2\obj\Debug\netcoreapp2.2\PlannerAPI2.RazorAssemblyInfo.cache
+C:\Users\lucas.tarumoto\source\repos\PlannerAPI2\PlannerAPI2\obj\Debug\netcoreapp2.2\PlannerAPI2.RazorAssemblyInfo.cs
+C:\Users\lucas.tarumoto\source\repos\PlannerAPI2\PlannerAPI2\obj\Debug\netcoreapp2.2\PlannerAPI2.AssemblyInfoInputs.cache
+C:\Users\lucas.tarumoto\source\repos\PlannerAPI2\PlannerAPI2\obj\Debug\netcoreapp2.2\PlannerAPI2.AssemblyInfo.cs
+C:\Users\lucas.tarumoto\source\repos\PlannerAPI2\PlannerAPI2\obj\Debug\netcoreapp2.2\PlannerAPI2.RazorTargetAssemblyInfo.cache
+C:\Users\lucas.tarumoto\source\repos\PlannerAPI2\PlannerAPI2\bin\Debug\netcoreapp2.2\PlannerAPI2.pdb
+C:\Users\lucas.tarumoto\source\repos\PlannerAPI2\PlannerAPI2\obj\Debug\netcoreapp2.2\PlannerAPI2.dll
+C:\Users\lucas.tarumoto\source\repos\PlannerAPI2\PlannerAPI2\obj\Debug\netcoreapp2.2\PlannerAPI2.pdb
