@@ -1,36 +1,36 @@
 ROUTES
 
 GET
-api/planhistory
-api/plans
-api/stakeholder
-api/status
-api/type
-api/userhistory
-api/users
+api/planhistory<br/>
+api/plans<br/>
+api/stakeholder<br/>
+api/status<br/>
+api/type<br/>
+api/userhistory<br/>
+api/users<br/>
 
 GET{id}
-api/planhistory/id
-api/plans/id
-api/stakeholder/id
-api/status/id
-api/type/id
-api/userhistory/id
-api/users/id
+api/planhistory/id<br/>
+api/plans/id<br/>
+api/stakeholder/id<br/>
+api/status/id<br/>
+api/type/id<br/>
+api/userhistory/id<br/>
+api/users/id<br/>
 
 POST
-api/plans
-api/stakeholder
-api/status
-api/type
-api/users
+api/plans<br/>
+api/stakeholder<br/>
+api/status<br/>
+api/type<br/>
+api/users<br/>
 
 UPDATE
-api/plans
-api/stakeholder
-api/status
-api/type
-api/users
+api/plans<br/>
+api/stakeholder<br/>
+api/status<br/>
+api/type<br/>
+api/users<br/>
 
 
 DELETE
