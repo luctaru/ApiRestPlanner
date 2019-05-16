@@ -1,6 +1,6 @@
 ROUTES
 
-GET
+GET<br/>
 api/planhistory<br/>
 api/plans<br/>
 api/stakeholder<br/>
@@ -9,7 +9,7 @@ api/type<br/>
 api/userhistory<br/>
 api/users<br/>
 
-GET{id}
+GET{id}<br/>
 api/planhistory/id<br/>
 api/plans/id<br/>
 api/stakeholder/id<br/>
@@ -18,14 +18,14 @@ api/type/id<br/>
 api/userhistory/id<br/>
 api/users/id<br/>
 
-POST
+POST<br/>
 api/plans<br/>
 api/stakeholder<br/>
 api/status<br/>
 api/type<br/>
 api/users<br/>
 
-UPDATE
+UPDATE<br/>
 api/plans<br/>
 api/stakeholder<br/>
 api/status<br/>
@@ -33,5 +33,5 @@ api/type<br/>
 api/users<br/>
 
 
-DELETE
+DELETE<br/>
 Problemas com o banco de dados
